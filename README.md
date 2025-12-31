@@ -14,6 +14,8 @@ A Streamlit dashboard for tracking and visualizing Livestock and Precious Metals
 - Crypto Markets table listing exchanges, pairs, prices, volumes, liquidity score, and volume %
 - Crypto Stocks page for comparative charts of crypto and stocks
 
+## live Streamlit Link
+https://live-stock-using-the-python-app-fvt9xhgqwusrxjejuo8glu.streamlit.app/
 ## Quick Start
 
 ### Prerequisites
