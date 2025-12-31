@@ -67,18 +67,6 @@ Notes:
 - Comparative line charts for selected crypto and stock assets
 - Time range filters similar to Crypto Prices
 
-## Project Structure
-```
-LIVE STOCK/
-├── .streamlit/
-│   └── secrets.toml
-├── pages/
-│   ├── Crypto_Prices.py
-│   └── Crypto_Stocks.py
-├── requirements.txt
-└── streamlit_app.py
-```
-
 ## Troubleshooting
 - Service Unavailable:
   - Restart the server: `Ctrl+C` in the terminal, then rerun `streamlit run streamlit_app.py --server.port 8505`
